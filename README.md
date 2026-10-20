@@ -22,7 +22,7 @@ Ilustrações dos projetos ficam em `components/visuals/` e são registradas em 
 
 ## Publicação
 
-Endereço: https://gomessz1.github.io/Andre.dev/
+Endereço: https://gomessz1.github.io/andregomessc.dev/
 
 O site é publicado no GitHub Pages pelo workflow `.github/workflows/deploy.yml`
 a cada push na branch `main`.
